@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title bgcolor="yellow">myFirstPage</title>
+    <title>myFirstPage</title>
   </head>
-  <body></body>
+  <body bgcolor="yellow"></body>
 </html>
