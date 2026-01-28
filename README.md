@@ -1,6 +1,11 @@
 <html>
   <head>
     <title>myFirstPage</title>
+    <style>
+      body{
+        background-color:yellow;
+      }
+    </style>
   </head>
-  <body bgcolor="yellow"></body>
+  <body></body>
 </html>
